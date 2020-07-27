@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "140025848379",
+    "firebase_url": "https://socialapp-bdfa6.firebaseio.com",
+    "project_id": "socialapp-bdfa6",
+    "storage_bucket": "socialapp-bdfa6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140025848379:android:05f778ac6e0f8c6793b21e",
+        "android_client_info": {
+          "package_name": "com.socialapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140025848379-dgi9tlermq75b7tsn86e09j8g8c8bnrg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJs0BJFPAZ1uKxUjWEn_NPtK0Q72tp9aY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140025848379-dgi9tlermq75b7tsn86e09j8g8c8bnrg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
