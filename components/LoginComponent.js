@@ -39,6 +39,9 @@ export default class LoginComponent extends React.Component {
                 </View>
 
                 <View style={styles.form}>
+                    <view>
+                        <text>17001528 - S.L.M Samarapura</text>
+                    </view>
                     <View>
                         <Text style={styles.inputTitle}>Email</Text>
                         <TextInput 
